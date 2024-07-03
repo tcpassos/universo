@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 4859501827795856291
+  m_GuidHigh: 14249540937414392738
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5562576774876759862
+      m_GuidHigh: 14711194575231841959
+    m_SerializedTextureGuid:
+      m_GuidLow: 1982973679198939063
+      m_GuidHigh: 12007733579081139481
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: board1
+    m_Texture: {fileID: 2800000, guid: 139a27b7f00e1b841945a90a120aa4a6, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5131473707253839009
+      m_GuidHigh: 12790265183243723155
+    m_SerializedTextureGuid:
+      m_GuidLow: 816555652695592103
+      m_GuidHigh: 17265338956052791003
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: board2
+    m_Texture: {fileID: 2800000, guid: 32420ca7fd0a0b54db7e3d0a4ece9aef, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4945753694086531652
+      m_GuidHigh: 11894516942682567837
+    m_SerializedTextureGuid:
+      m_GuidLow: 4009338434070786708
+      m_GuidHigh: 4178019507926953243
+    m_Size: {x: 0.3, y: 0.3}
+    m_SpecifySize: 1
+    m_Name: board3
+    m_Texture: {fileID: 2800000, guid: 3b1c3294081037a41b6da33a9b4efb39, type: 3}
