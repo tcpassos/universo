@@ -1,3 +1,3 @@
 # UniVerso
 
-Developed with Unreal Engine 5
+Aplicativo em realidade aumentada desenvolvido com Unity Engine.
